@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/nullus7/reconnect/refs/heads/main/checkonline.lua
